@@ -25,3 +25,4 @@ Thumbs.db
 .DS_Store
 tmp_data.txt
 tmp_data.txt
+.env
